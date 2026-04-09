@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Star Jalsha HD" tvg-logo="https://img.media.jio.com/tvpimages/13/28/301972_1753203984227_l_high.jpg" group-title="JTV+ BANGLA",Star Jalsha HD
+https://xzyvs.shop/starx56863/317/manifest.m3u8
+#EXTINF:-1 tvg-id="Enter10 Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403" group-title="JTV+ BANGLA",Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Aakash Aath" tvg-logo="https://img.media.jio.com/imagespublic/57/85/AakashAath_1574691882294_tv.jpg" group-title="JTV+ BANGLA",Aakash Aath
+https://xzyvs.shop/starx56863/698/manifest.m3u8
+#EXTINF:-1 tvg-id="Colors Bangla Cinema" tvg-logo="https://img.media.jio.com/imagespublic/66/94/301386_1683104565715_l_high.jpg" group-title="JTV+ BANGLA",Colors Bangla Cinema
+https://xzyvs.shop/starx56863/1657/manifest.m3u8
+#EXTINF:-1 tvg-id="Jalsha Movies" tvg-logo="https://img.media.jio.com/tvpimages/58/46/301992_1753203395835_l_high.jpg" group-title="JTV+ BANGLA",Jalsha Movies
+https://xzyvs.shop/starx56863/1120/manifest.m3u8
+#EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641" group-title="JTV+ BANGLA",Zee Bangla Cinema
+https://xzyvs.shop/zee55/index.m3u8?id=0-9-zeebanglacinema
+#EXTINF:-1 tvg-id="Bangla+ HD" tvg-logo="https://ik.imagekit.io/rupam/images.jpeg" group-title="JTV+ BANGLA",Bangla+ HD
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="ZB Cinema" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/97/ZB_Cinema.png/revision/latest?cb=20251223093031" group-title="JTV+ BANGLA",ZB Cinema
+https://xzyvs.shop/starx56863/3322/manifest.m3u8
+#EXTINF:-1 tvg-id="Cinema Hall" tvg-logo="https://ik.imagekit.io/rupam/IMG_20250917_004926.jpg?updatedAt=1758050417783" group-title="JTV+ BANGLA",Cinema Hall
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-id="Jalsha Movies HD" tvg-logo="https://img.media.jio.com/tvpimages/92/42/302096_1749652323250_l_high.jpg" group-title="JTV+ BANGLA",Jalsha Movies HD
+https://xzyvs.shop/starx56863/457/manifest.m3u8
+#EXTINF:-1 tvg-id="Colors Bangla HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest?cb=20240314081816" group-title="JTV+ BANGLA",Colors Bangla HD
+https://xzyvs.shop/starx56863/756/manifest.m3u8
+#EXTINF:-1 tvg-id="Zee Bangla HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/250?cb=20210509201933" group-title="JTV+ BANGLA",Zee Bangla HD
+https://xzyvs.shop/zee55/index.m3u8?id=0-9-zeebangla
+#EXTINF:-1 tvg-id="Sun Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="JTV+ BANGLA",Sun Bangla
+https://xzyvs.shop/starx56863/1669/manifest.m3u8
+#EXTINF:-1 tvg-id="Khushboo Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="JTV+ BANGLA",Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 tvg-id="Zee24 Ghanta" tvg-logo="https://img.media.jio.com/tvpimages/55/27/301356_1753199303025_l_high.jpg" group-title="JTV+ BANGLA",Zee24 Ghanta
+https://xzyvs.shop/zee55/index.m3u8?id=0-9-24ghantatv
+#EXTINF:-1 tvg-id="R Bangla" tvg-logo="https://img.media.jio.com/imagespublic/87/60/301515_1713523375161_l_high.jpg" group-title="JTV+ BANGLA",R Bangla
+https://xzyvs.shop/starx56863/2780/manifest.m3u8
+#EXTINF:-1 tvg-id="ABP Ananda" tvg-logo="https://img.media.jio.com/tvpimages/15/31/300090_1753177101546_l_high.jpg" group-title="JTV+ BANGLA",ABP Ananda
+https://xzyvs.shop/starx56863/672/manifest.m3u8
+#EXTINF:-1 tvg-id="News18 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/11/70/300293_1753197211824_l_high.jpg" group-title="JTV+ BANGLA",News18 Bangla
+https://xzyvs.shop/starx56863/717/manifest.m3u8
+#EXTINF:-1 tvg-id="Sony Aath" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726" group-title="JTV+ BANGLA",Sony Aath
+https://xzyvs.shop/sliv333/master.m3u8?ch=SonyAathSD&amp;id=2011641
+#EXTINF:-1 tvg-id="Calcutta News" tvg-logo="https://img.media.jio.com/tvpimages/89/4/300631_1756120185242_l_high.jpg" group-title="JTV+ BANGLA",Calcutta News
+https://xzyvs.shop/starx56863/1261/manifest.m3u8
+#EXTINF:-1 tvg-id="TV9 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/43/95/301139_1753182832457_l_high.jpg" group-title="JTV+ BANGLA",TV9 Bangla
+https://xzyvs.shop/starx56863/1735/manifest.m3u8
+#EXTINF:-1 tvg-id="Kolkata TV" tvg-logo="https://img.media.jio.com/imagespublic/20/79/301235_1650270050743_l_high.jpg" group-title="JTV+ BANGLA",Kolkata TV
+https://xzyvs.shop/starx56863/1264/manifest.m3u8
+#EXTINF:-1 tvg-id="DD Bangla" tvg-logo="https://img.media.jio.com/imagespublic/71/55/301375_1681911453091_l_high.jpg" group-title="JTV+ BANGLA",DD Bangla
+https://xzyvs.shop/starx56863/690/manifest.m3u8
