@@ -42,6 +42,6 @@ http://datahub11.com/live/Anthony2/Anthony123/3819.ts
 #EXTINF:-1 tvg-id="TV9 Bangla" tvg-logo="https://img.media.jio.com/tvpimages/43/95/301139_1753182832457_l_high.jpg" group-title="JTV+ BANGLA",TV9 Bangla
 http://datahub11.com/live/Anthony2/Anthony123/3804.ts
 #EXTINF:-1 tvg-id="Kolkata TV" tvg-logo="https://img.media.jio.com/imagespublic/20/79/301235_1650270050743_l_high.jpg" group-title="JTV+ BANGLA",Kolkata TV
-https://servertvhub.site/jio-tv/app1.1/live.php?id=1264&access=secure_player
+http://103.171.6.250:3500/live/1264.m3u8
 #EXTINF:-1 tvg-id="DD Bangla" tvg-logo="https://img.media.jio.com/imagespublic/71/55/301375_1681911453091_l_high.jpg" group-title="JTV+ BANGLA",DD Bangla
 http://datahub11.com:80/live/Anthony2/Anthony123/4049.ts
