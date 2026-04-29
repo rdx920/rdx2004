@@ -15,8 +15,6 @@ http://datahub11.com/live/Anthony2/Anthony123/49615.ts
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-id="ZB Cinema" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/97/ZB_Cinema.png/revision/latest?cb=20251223093031" group-title="JTV+ BANGLA",ZB Cinema
 https://xzyvs.shop/starx56863/3322/manifest.m3u8
-#EXTINF:-1 tvg-id="Cinema Hall" tvg-logo="https://ik.imagekit.io/rupam/IMG_20250917_004926.jpg?updatedAt=1758050417783" group-title="JTV+ BANGLA",Cinema Hall
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-id="Jalsha Movies HD" tvg-logo="https://img.media.jio.com/tvpimages/92/42/302096_1749652323250_l_high.jpg" group-title="JTV+ BANGLA",Jalsha Movies HD
 http://datahub11.com/live/Anthony2/Anthony123/425.ts
 #EXTINF:-1 tvg-id="Colors Bangla HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest?cb=20240314081816" group-title="JTV+ BANGLA",Colors Bangla HD
